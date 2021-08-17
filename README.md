@@ -7,5 +7,6 @@ Stereo vision project mainly  consists of 9 steps"
 5. calculate Depth map
 6. do obstacle detection using YOLOv4(tiny model)
 7. get obstacle distance by  merging knowledge from depth map and object detection algorithm
+https://drive.google.com/file/d/1-6WVLLUcc16KsNu3AwL8zHDGl0MEy16C/view?usp=sharing
 8. 3D reconstruction 
 9. pseudo-Lidar visualization
